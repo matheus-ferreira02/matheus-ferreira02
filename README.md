@@ -15,12 +15,14 @@
 <div>
   <h3> 💻 Languages, Technologies and Tools </h3>
   <p>
-   <img src="https://www.svgrepo.com/show/373703/js.svg" width="50">
+   <img src="https://www.svgrepo.com/show/373703/js.svg" width="50" alt="JavaScript">
    <img src="https://www.svgrepo.com/show/354259/react.svg" width="50">
    <img src="https://www.svgrepo.com/show/354274/redux.svg" width="50">
    <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="50">
    <img src="https://www.svgrepo.com/show/349330/css3.svg" width="50">
    <img src="https://www.svgrepo.com/show/373623/git.svg" width="50">
+   <img src="https://www.svgrepo.com/show/373700/jest.svg" width="50">
+   <img src="https://testing-library.com/img/octopus-128x128.png" width="50">    
   <p>
 </div> 
   
