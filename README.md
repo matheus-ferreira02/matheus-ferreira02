@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Matheus Ferreira de Araujo 👋 </h1>
 <h3 align="center">🚀 | Front-End Developer | 🚀</h3>
 <div>
-<img width = "45%" align="right" alt="PIC" height="30%" src="https://programadorviking.com.br/wp-content/uploads/2020/11/Os-Melhores-Sites-Para-Desafios-de-Programacao-380x249.jpg" />
+<img width = "40%" align="right" alt="PIC" height="25%" src="https://programadorviking.com.br/wp-content/uploads/2020/11/Os-Melhores-Sites-Para-Desafios-de-Programacao-380x249.jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
