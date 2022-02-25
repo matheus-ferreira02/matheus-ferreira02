@@ -19,9 +19,9 @@
    <img src="https://www.svgrepo.com/show/373703/js.svg" width="50">
    <img src="https://www.svgrepo.com/show/354259/react.svg" width="50">
    <img src="https://www.svgrepo.com/show/354274/redux.svg" width="50">
-   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
-   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+   <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="50">
+   <img src="https://www.svgrepo.com/show/349330/css3.svg" width="50">
+   <img src="https://www.svgrepo.com/show/373623/git.svg" width="50">
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   <p>
 </div> 
