@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Matheus Ferreira de Araujo 👋 </h1>
 <h3 align="center">🚀 | Front-End Developer | 🚀</h3>
 <div>
-<img width = "45%" align="right" alt="PIC" height="290px" src="http://flf.edu.br/web/app/uploads/O-que-e-e-para-que-serve-a-programacao-Principal.jpg" />
+<img width = "45%" align="right" alt="PIC" height="30%" src="http://flf.edu.br/web/app/uploads/O-que-e-e-para-que-serve-a-programacao-Principal.jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
