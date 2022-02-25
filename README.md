@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <h3> 💻 Languages and Tools </h3>
+  <h3> 💻 Languages, Technologies and Tools </h3>
   <p>
    <img src="https://www.svgrepo.com/show/373703/js.svg" width="50">
    <img src="https://www.svgrepo.com/show/354259/react.svg" width="50">
