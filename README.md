@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
+<h1 align="center">Hey there! I'm Matheus Ferreira de Araujo 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
@@ -22,7 +22,6 @@
    <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="50">
    <img src="https://www.svgrepo.com/show/349330/css3.svg" width="50">
    <img src="https://www.svgrepo.com/show/373623/git.svg" width="50">
-   <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   <p>
 </div> 
   
