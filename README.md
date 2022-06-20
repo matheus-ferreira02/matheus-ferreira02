@@ -27,7 +27,9 @@
    <img src="https://www.svgrepo.com/show/354118/nodejs.svg" width="50" alt="NodeJs">
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" alt="SQL">
    <img src="https://www.svgrepo.com/show/354333/sequelize.svg" width="50" alt="Sequelize">
-   <img src="https://www.svgrepo.com/show/349540/typescript.svg" width="50" alt="Sequelize">
+   <img src="https://www.svgrepo.com/show/349540/typescript.svg" width="50" alt="Typescript">
+   <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="50" alt="Typescript">
+   <img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" width="50" alt="JWT">
   <p>
 </div> 
   
