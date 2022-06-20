@@ -24,7 +24,10 @@
    <img src="https://www.svgrepo.com/show/373700/jest.svg" width="50" alt="Jest">
    <img src="https://testing-library.com/img/octopus-128x128.png" width="50" alt="RTL">    
    <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" alt="Docker"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" alt="NodeJs">
+   <img src="https://www.svgrepo.com/show/354118/nodejs.svg" width="50" alt="NodeJs">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" alt="SQL">
+   <img src="https://www.svgrepo.com/show/354333/sequelize.svg" width="50" alt="Sequelize">
+   <img src="https://www.svgrepo.com/show/349540/typescript.svg" width="50" alt="Sequelize">
   <p>
 </div> 
   
