@@ -23,6 +23,8 @@
    <img src="https://www.svgrepo.com/show/373623/git.svg" width="50" alt="GIT">
    <img src="https://www.svgrepo.com/show/373700/jest.svg" width="50" alt="Jest">
    <img src="https://testing-library.com/img/octopus-128x128.png" width="50" alt="RTL">    
+   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" alt="Docker"> 
+   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" alt="NodeJs">
   <p>
 </div> 
   
