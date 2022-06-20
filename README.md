@@ -30,6 +30,7 @@
    <img src="https://www.svgrepo.com/show/349540/typescript.svg" width="50" alt="Typescript">
    <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="50" alt="Typescript">
    <img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" width="50" alt="JWT">
+   <img src="https://www.svgrepo.com/show/349404/heroku.svg" width="50" alt="JWT">
   <p>
 </div> 
   
