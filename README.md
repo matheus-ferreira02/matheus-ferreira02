@@ -5,9 +5,8 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🎓 &nbsp; Studying Software Development at Trybe.
-  - 💼 &nbsp; Learning about backend architectures.
-  - 🌱 &nbsp; Future fullstack developer.
+  - 🎓 &nbsp; Software developer at Mercado Livre.
+  - 💼 &nbsp; Learning about Java.
   - ✍️ &nbsp; I like Electronic Games as hobbies/side activities.  
 </div> 
 </div>
