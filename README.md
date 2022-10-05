@@ -5,7 +5,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🎓 &nbsp; Software developer at Mercado Livre.
+  - 🎓 &nbsp; Software developer at Mercado Livre ♥.
   - 💼 &nbsp; Learning about Java.
   - ✍️ &nbsp; I like Electronic Games as hobbies/side activities.  
 </div> 
